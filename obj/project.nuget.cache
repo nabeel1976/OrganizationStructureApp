@@ -1,27 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HQGpzi6+VbE=",
-  "success": false,
+  "dgSpecHash": "hblB/ExUouY=",
+  "success": true,
   "projectFilePath": "C:\\Projects\\2\\OrganizationStructureApp.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Unable to resolve 'System.Data.SQLite.Core (>= 1.0.117)' for '.NETFramework,Version=v4.8'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org, Package source.",
-      "libraryId": "System.Data.SQLite.Core",
-      "targetGraphs": [
-        ".NETFramework,Version=v4.8"
-      ]
-    },
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Unable to resolve 'System.Data.SQLite.Core (>= 1.0.117)' for '.NETFramework,Version=v4.8/win-x86'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org, Package source.",
-      "libraryId": "System.Data.SQLite.Core",
-      "targetGraphs": [
-        ".NETFramework,Version=v4.8/win-x86"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\NABEL-2024\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\NABEL-2024\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
 }

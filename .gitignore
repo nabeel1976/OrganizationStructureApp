@@ -1,0 +1,18 @@
+﻿# Visual Studio وملحقاته
+.vs/
+*.suo
+*.user
+*_ReSharper*
+
+# مجلدات البناء
+bin/
+obj/
+
+# قاعدة البيانات المحلية
+OrganizationDB.sqlite
+
+# ملفات المكتبات المحلية (في حال استخدامك لـ NuGet بدل lib المحلي)
+lib/
+
+# حزم NuGet
+*.nupkg
